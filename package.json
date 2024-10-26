@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "email dev",
-    "start": "bun build.ts && bun ./build/index.js"
+    "start": "build.ts && bun ./build/index.js"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
